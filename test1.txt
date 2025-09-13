@@ -1,8 +1,1 @@
-{
-  "licenses": [
-    "HEsdGFdYD19YTVBXXVQeWktOHBAcEEAUDAZKT0BbCVgNR0JRAFUbDAtIVnFGF11LRlhHVABcX05UVlFJDwgXHExGVVZ0E0tOSkdSH1lEU1xDQlYPFg=="
-  ],
-  "lastUpdated": "2025-09-13T21:46:49.586Z",
-  "createdBy": "GitHub License Manager",
-  "version": "1.0"
-}
+
